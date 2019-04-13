@@ -1,5 +1,11 @@
 ### Basic Data Science Project Template
 
+### Update project python packages with `pur`
+pur -r requirements.txt
+- or - 
+pur -r requirements.txt --interactive
+- then - 
+pip install -r requirements.txt
 
 ### Useful Pandas snippets
 
