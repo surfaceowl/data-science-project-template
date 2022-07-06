@@ -32,7 +32,7 @@ jupyterlab-launcher==0.13.1
 jupyterlab==2.2.10
 kiwisolver==1.2.0
 lazy-object-proxy==1.5.0
-lxml==4.6.5
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mccabe==0.6.1
