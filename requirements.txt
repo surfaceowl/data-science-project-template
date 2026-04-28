@@ -11,7 +11,7 @@ google-api-python-client==1.9.3
 googlemaps==4.4.1
 holidays==0.10.2
 html5lib==1.0.1
-idna==2.9
+idna==3.7
 ipykernel==5.3.0
 ipython-genutils==0.2.0
 ipython==8.10.0
